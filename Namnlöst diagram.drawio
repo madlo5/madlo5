@@ -1,20 +1,121 @@
-<mxfile host="app.diagrams.net" modified="2023-03-13T07:54:56.967Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="_-x9_upRLq4xo4cORn2d" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-13T08:38:25.984Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="uBlAbxpcsrBC8iOY4Ow1" version="21.0.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="387" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1004" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="9NHhLBJKzsV_J1YCojoy-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9NHhLBJKzsV_J1YCojoy-1" value="Högt. utbud" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="480" width="120" height="60" as="geometry" />
+        <mxCell id="9NHhLBJKzsV_J1YCojoy-1" value="2. Högt utbud, låg efterfrågan på böcker" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9NHhLBJKzsV_J1YCojoy-2" value="1. Brist på självständiga system" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="820" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="1109" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9NHhLBJKzsV_J1YCojoy-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9NHhLBJKzsV_J1YCojoy-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9NHhLBJKzsV_J1YCojoy-4" target="9NHhLBJKzsV_J1YCojoy-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9NHhLBJKzsV_J1YCojoy-4" value="3. Försäljningen minskar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9NHhLBJKzsV_J1YCojoy-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9NHhLBJKzsV_J1YCojoy-5" target="9NHhLBJKzsV_J1YCojoy-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9NHhLBJKzsV_J1YCojoy-5" value="11. Förlorade kunder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9NHhLBJKzsV_J1YCojoy-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9NHhLBJKzsV_J1YCojoy-6" target="9NHhLBJKzsV_J1YCojoy-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="1139" />
+              <mxPoint x="290" y="1139" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9NHhLBJKzsV_J1YCojoy-6" value="12. Förlorade intäkter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9NHhLBJKzsV_J1YCojoy-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9NHhLBJKzsV_J1YCojoy-7" target="9NHhLBJKzsV_J1YCojoy-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9NHhLBJKzsV_J1YCojoy-7" value="13. Kostnadsineffektiv verksamhet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9NHhLBJKzsV_J1YCojoy-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9NHhLBJKzsV_J1YCojoy-8" target="9NHhLBJKzsV_J1YCojoy-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9NHhLBJKzsV_J1YCojoy-8" value="4. Kassasystem funkar inte" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9NHhLBJKzsV_J1YCojoy-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9NHhLBJKzsV_J1YCojoy-9" target="9NHhLBJKzsV_J1YCojoy-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9NHhLBJKzsV_J1YCojoy-9" value="5. Osäkra genvägar tas kring ofungerande system" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9NHhLBJKzsV_J1YCojoy-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9NHhLBJKzsV_J1YCojoy-10" target="9NHhLBJKzsV_J1YCojoy-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9NHhLBJKzsV_J1YCojoy-10" value="8. Enkla misstag sprider missvisande resultat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9NHhLBJKzsV_J1YCojoy-12" value="10. Oflexibel utbetalning till kund" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9NHhLBJKzsV_J1YCojoy-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="730" as="sourcePoint" />
+            <mxPoint x="280" y="820" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9NHhLBJKzsV_J1YCojoy-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9NHhLBJKzsV_J1YCojoy-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="860" as="sourcePoint" />
+            <mxPoint x="290" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9NHhLBJKzsV_J1YCojoy-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9NHhLBJKzsV_J1YCojoy-21" target="9NHhLBJKzsV_J1YCojoy-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9NHhLBJKzsV_J1YCojoy-21" value="Manuell behandling för tillsyn av aktuell kurslitteratur&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9NHhLBJKzsV_J1YCojoy-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9NHhLBJKzsV_J1YCojoy-22" target="9NHhLBJKzsV_J1YCojoy-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9NHhLBJKzsV_J1YCojoy-22" value="Manuellt införande av verksmahetsekonomin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9NHhLBJKzsV_J1YCojoy-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9NHhLBJKzsV_J1YCojoy-23" target="9NHhLBJKzsV_J1YCojoy-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9NHhLBJKzsV_J1YCojoy-23" value="Tidskrävande arbete" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9NHhLBJKzsV_J1YCojoy-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9NHhLBJKzsV_J1YCojoy-26" target="9NHhLBJKzsV_J1YCojoy-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9NHhLBJKzsV_J1YCojoy-26" value="Manuell hantering av returer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="584" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9NHhLBJKzsV_J1YCojoy-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9NHhLBJKzsV_J1YCojoy-27" target="9NHhLBJKzsV_J1YCojoy-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9NHhLBJKzsV_J1YCojoy-27" value="Samarbetsproblem hos engelska förlag" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="850" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9NHhLBJKzsV_J1YCojoy-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9NHhLBJKzsV_J1YCojoy-28" target="9NHhLBJKzsV_J1YCojoy-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9NHhLBJKzsV_J1YCojoy-28" value="Ineffektiv verksamhet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="1049" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
