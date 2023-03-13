@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-13T09:31:28.899Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="bOyyaeSHIxM6CBT6wLdL" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-13T09:43:16.588Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="SG7XoxhiRNodCqwkiIGr" version="21.0.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="822" dy="1034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="885" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -20,18 +20,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9NHhLBJKzsV_J1YCojoy-5" value="3. Förlorade kunder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="130" y="989" width="120" height="60" as="geometry" />
+          <mxGeometry x="145" y="989" width="90" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="9NHhLBJKzsV_J1YCojoy-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9NHhLBJKzsV_J1YCojoy-6" target="9NHhLBJKzsV_J1YCojoy-2">
+        <mxCell id="9NHhLBJKzsV_J1YCojoy-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9NHhLBJKzsV_J1YCojoy-6" target="9NHhLBJKzsV_J1YCojoy-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="290" y="1139" />
+              <mxPoint x="290" y="1110" />
               <mxPoint x="290" y="1139" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9NHhLBJKzsV_J1YCojoy-6" value="2. Förlorade intäkter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="130" y="1090" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="1080" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9NHhLBJKzsV_J1YCojoy-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9NHhLBJKzsV_J1YCojoy-7" target="9NHhLBJKzsV_J1YCojoy-5">
           <mxGeometry relative="1" as="geometry" />
@@ -48,17 +48,17 @@
         <mxCell id="9NHhLBJKzsV_J1YCojoy-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9NHhLBJKzsV_J1YCojoy-9" target="9NHhLBJKzsV_J1YCojoy-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9NHhLBJKzsV_J1YCojoy-9" value="8. Osäkra genvägar tas kring ofungerande system" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="9NHhLBJKzsV_J1YCojoy-9" value="10. Osäkra genvägar tas kring ofungerande system" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9NHhLBJKzsV_J1YCojoy-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9NHhLBJKzsV_J1YCojoy-10" target="9NHhLBJKzsV_J1YCojoy-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9NHhLBJKzsV_J1YCojoy-10" value="9. Enkla misstag sprider missvisande resultat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="9NHhLBJKzsV_J1YCojoy-10" value="&amp;nbsp;11. Enkla misstag sprider missvisande resultat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9NHhLBJKzsV_J1YCojoy-12" value="10. Oflexibel utbetalning till kund" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="640" width="120" height="60" as="geometry" />
+        <mxCell id="9NHhLBJKzsV_J1YCojoy-12" value="8. Oflexibel utbetalning till kund" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="640" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9NHhLBJKzsV_J1YCojoy-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -83,6 +83,9 @@
               <mxPoint x="618" y="660" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="9NHhLBJKzsV_J1YCojoy-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9NHhLBJKzsV_J1YCojoy-21" target="9NHhLBJKzsV_J1YCojoy-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9NHhLBJKzsV_J1YCojoy-21" value="13. Tillsyn med aktiv uppföljning av aktuell kurslitteratur&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="570" width="130" height="60" as="geometry" />
@@ -119,7 +122,7 @@
         <mxCell id="9NHhLBJKzsV_J1YCojoy-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9NHhLBJKzsV_J1YCojoy-28" target="9NHhLBJKzsV_J1YCojoy-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9NHhLBJKzsV_J1YCojoy-28" value="11. Ineffektiv verksamhet i sin helhet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="9NHhLBJKzsV_J1YCojoy-28" value="9. Ineffektiv verksamhet i sin helhet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="557.5" y="980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9NHhLBJKzsV_J1YCojoy-43" value="16. Manuella outvecklade system" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
