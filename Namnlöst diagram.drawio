@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-27T09:16:43.706Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="F1i4nGuQng5HkxCU64gb" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-27T09:29:57.597Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="QYeCjSZBsEIox6QGQRDm" version="21.0.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1060" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1004" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -39,7 +39,7 @@
         <mxCell id="9NHhLBJKzsV_J1YCojoy-7" value="4. Kostnadsineffektiv verksamhet" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="130" y="870" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9NHhLBJKzsV_J1YCojoy-8" value="7. Kassasystem funkar inte" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="9NHhLBJKzsV_J1YCojoy-8" value="7. Kassasystem funkar inte" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="350" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9NHhLBJKzsV_J1YCojoy-9" value="10. Osäkra genvägar tas kring ofungerande system" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -48,7 +48,7 @@
         <mxCell id="9NHhLBJKzsV_J1YCojoy-10" value="&amp;nbsp;11. Enkla misstag sprider missvisande resultat" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="350" y="990" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9NHhLBJKzsV_J1YCojoy-12" value="8. Oflexibel utbetalning till kund" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="9NHhLBJKzsV_J1YCojoy-12" value="8. Oflexibel utbetalning till kund" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="210" y="610" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9NHhLBJKzsV_J1YCojoy-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9NHhLBJKzsV_J1YCojoy-21" target="9NHhLBJKzsV_J1YCojoy-22" edge="1">
@@ -124,9 +124,9 @@
             <mxPoint x="618" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9NHhLBJKzsV_J1YCojoy-49" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9NHhLBJKzsV_J1YCojoy-43" target="9NHhLBJKzsV_J1YCojoy-26" edge="1">
+        <mxCell id="9NHhLBJKzsV_J1YCojoy-49" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="9NHhLBJKzsV_J1YCojoy-26" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="690" y="540" as="sourcePoint" />
+            <mxPoint x="648" y="530" as="sourcePoint" />
             <mxPoint x="740" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
